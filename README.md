@@ -4,19 +4,16 @@ A Python FastMCP Server that parses JSON output from Sitecore endpoints. Project
 
 ---
 
-## Use Cases
+## Screenshots
 
-**Visualize Content Breakdown by Template**
+### Visualize Content Breakdown by Template
+<img alt="Image" src="https://github.com/user-attachments/assets/2950ef6d-49cd-4a57-bfdd-b3364143a2a0" />
 
-https://github.com/user-attachments/assets/2950ef6d-49cd-4a57-bfdd-b3364143a2a0
+### Template Field Analysis
+<img alt="Image" src="https://github.com/user-attachments/assets/ec7b5c42-8576-4d8f-8ce2-eba4f3a8cc31" />
 
-**Template Field Analysis**
-
-https://github.com/user-attachments/assets/ec7b5c42-8576-4d8f-8ce2-eba4f3a8cc31
-
-**Querying Most Recent Content**
-
-https://github.com/user-attachments/assets/b39d4de2-9c98-4201-816c-5d8a766954b9
+### Querying Most Recent Content
+<img alt="Image" src="https://github.com/user-attachments/assets/b39d4de2-9c98-4201-816c-5d8a766954b9" />
 
 ---
 
@@ -28,17 +25,17 @@ Add additional JSON endpoints to expose site information, media library items, l
 
 Partial implementation of a Sitecore XM Cloud project that produces json output for statistical analysis. Will need to be implemented based on your own Next.js project structure. Should be relatively easy to follow or changed by addressing the limitations below (which can be avoided by using hard coded values).
 
-[README]()
+[README](https://github.com/romayneeastmond/sitecore-statistics-python-mcp/blob/main/sitecore-src/README.md)
 
-[Source Code]()
+[Source Code](https://github.com/romayneeastmond/sitecore-statistics-python-mcp/tree/main/sitecore-src)
 
 # Sitecore Statistics MCP Server, Python FastMCP
 
 A Python FastMCP project that exposes Sitecore statistics and how to call tools from Visual Studio Code, AI Toolkit, and  Claude Desktop. Provides flexiblity of being served using stdio or http. Also provides the needed configuration to successfully host on an Azure Python Web App.
 
-[README]()
+[README](https://github.com/romayneeastmond/sitecore-statistics-python-mcp/blob/main/python-fastmcp-server/README.md)
 
-[Source Code]()
+[Source Code](https://github.com/romayneeastmond/sitecore-statistics-python-mcp/tree/main/python-fastmcp-server)
 
 ## Copyright and Ownership
 
