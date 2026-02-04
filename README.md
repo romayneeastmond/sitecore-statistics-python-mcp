@@ -19,7 +19,7 @@ A Python FastMCP Server that parses JSON output from Sitecore endpoints. Project
 
 ## Extensibility
 
-Add additional JSON endpoints to expose site information, media library items, links to downloadable assets (PDF, Word, vCard). Next.js offers flexiliby to exposing additional API endpoints for more advanced features such as connecting to the Sitecore authoring API. This could potentially allow MCP Servers to post content directly into Sitecore. Naturally should be secured to prevent unintended changes.
+Add additional JSON endpoints to expose site information, media library items, links to downloadable assets (PDF, Word, vCard). Next.js offers flexibilty through additional API endpoints for more advanced features such as connecting to the Sitecore authoring API. This could potentially allow MCP Servers to post content directly into Sitecore. Naturally should be secured to prevent unintended changes.
 
 # Sitecore Statistics JSON Output
 
